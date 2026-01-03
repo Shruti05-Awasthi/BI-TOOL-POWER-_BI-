@@ -14,7 +14,8 @@ This repo contains my dashboards created while learning and practicing Data Anal
 
 ## 🔗 Connect with Me
   [Linkedin] https://www.linkedin.com/in/shruti-awasthi-139b10206
-- [GitHub](https://github.com/Shruti05-Awasthi)  
+- [GitHub](https://github.com/Shruti05-Awasthi) <br>
+  [Author] (Shruti Awasthi)
 
 ---
 
